@@ -50,12 +50,10 @@ function dec(a) {
 
 dec(2)
 
-function makeInt(a) {
+function makeInt(n) {
  
-
- parseInt('a', 10)
   
-  return a
+  return parseInt(n, 10)
   
 }
 
