@@ -57,9 +57,12 @@ function makeInt(n) {
   
 }
 
-if ( a)
 
-makeInt(10)
-
+function preserveDecimal(n) {
+ 
+  
+  return parseFloat(n)
+  
+}
 
 
